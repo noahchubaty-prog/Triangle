@@ -21,7 +21,10 @@ public class Main {
 			if (yes2.equalsIgnoreCase("yes")) {
 			System.out.println("There are two methods used to solve this triangle problem. Sine and Cosine Law");
 			System.out.println("To use the Sine Law, you first need to find the other corresponding angle in the triangle.");
-			System.out.println("To do this, you must line up your work like this: Sin(B)= bsin(a)/A.");
+			System.out.println("To do this, you must line up your work like this: "
+					+ "\nSin(B)= bsin(a)"
+					+ "\n       --------"
+					        +"\n          (A)");
 			System.out.println("Then take the inverse of your answer to find your second corresponding angle.");
 			System.out.println("Lastly, you want to use the sine law formula: a/sin(a) = b/sin(b).");
 			System.out.println("Keep in mind that a and b are just variables so they can vary based on the question.");
@@ -38,7 +41,9 @@ public class Main {
 			System.out.println("Then to find the last remaining side use this formula: Unknown Side(X) = Asin(Opposite of X)/ sin(B).");
 			System.out.println("This is assuming that we know the sides a and b.");
 			System.out.println("But if we know a and c or b and c then only the letters change not the process");
-			
+			} else { 
+				System.out.println("Then why are you wasting my time!");
+				
 			}
 			
 			}
