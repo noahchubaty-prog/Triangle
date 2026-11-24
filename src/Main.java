@@ -22,6 +22,51 @@ public class Main {
 				oneSidetwoangles();
 			} else { 
 				System.out.println("Then why are you wasting my time!");
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 				
 			}
 			
@@ -48,7 +93,7 @@ public static void twoSidesoneangle() {
 	System.out.println("Then take the inverse of your answer to find your second corresponding angle.");
 	System.out.println("Lastly, you want to use the sine law formula: a                    b"
 			+ "\n                                           ---------      =     ---------"
-			+ "\n                                            sin(a)               sin(b)                                                                                 sin(b).");
+			+ "\n                                            sin(a)               sin(b)                                                                                 ");
 	System.out.println("Keep in mind that a and b are just variables so they can vary based on the question.");
 	System.out.println("To use the cosine law, implement the formula: B^2+C^2-A^2"
 			+ "\n                                              -----------"
